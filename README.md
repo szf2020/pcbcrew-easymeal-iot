@@ -16,3 +16,19 @@ SP32 based vending machine controller board with Ethernet, Wi-Fi, and 4G LTE con
 * DIP8 connector for 24Cxx EEPROM
 * A few buttons and LEDs
 * USB 2.0 Type-C connector for debugging
+
+## Pin Assignments
+
+### Quectel EC25
+
+| Modem         | PCIe    | ESP32-S3 |
+| ------------- | ------- | -------- |
+| MODEM_RST     | PCIE_22 | GPIO_35  |
+| MODEM_UART_TX | PCIE_13 | GPIO_44  |
+| MODEM_UART_RX | PCIE_11 | GPIO_43  |
+| MODEM_RTS     | PCIE_25 | GPIO_39  |
+| MODEM_CTS     | PCIE_23 | GPIO_40  |
+
+### Simcom SIM7600
+
+(todo)
