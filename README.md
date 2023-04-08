@@ -62,4 +62,10 @@ SP32 based vending machine controller board with Ethernet, Wi-Fi, and 4G LTE con
 
 ### Simcom SIM7600
 
-(todo)
+| Modem         | PCIe    | ESP32-S3 |
+| ------------- | ------- | -------- |
+| MODEM_RST     | PCIE_22 | GPIO_35  |
+| MODEM_CTS     | PCIE_11 | GPIO_43  |
+| MODEM_RTS     | PCIE_13 | GPIO_44  |
+| MODEM_UART_TX | PCIE_19 | GPIO_41  |
+| MODEM_UART_RX | PCIE_17 | GPIO_42  |
