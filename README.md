@@ -1,4 +1,4 @@
-# PCBCrew Easymeal IoT
+# PCBCrew ™ Easymeal IoT
 
 SP32 based vending machine controller board with Ethernet, Wi-Fi, and 4G LTE connectivity
 
@@ -69,3 +69,18 @@ SP32 based vending machine controller board with Ethernet, Wi-Fi, and 4G LTE con
 | MODEM_RTS     | PCIE_13 | GPIO_44  |
 | MODEM_UART_TX | PCIE_19 | GPIO_41  |
 | MODEM_UART_RX | PCIE_17 | GPIO_42  |
+
+### Project Ownership
+
+This repository is hosted to the PCB desiber([DumTux](https://github.com/dumtux))'s GitHub account for backup.
+The copyright of this hardware design is owned by [Easymeal ™][easymeal].
+
+### Sponsors:
+
+* [Easymeal ™][easymeal]
+* [PCBCrew ™][pcbcrew]
+
+---
+
+[pcbcrew]: https://pcbcrew.com
+[easymeal]: https://www.easymealco.com
