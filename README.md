@@ -1,4 +1,6 @@
-# PCBCrew ™ Easymeal ™ IoT
+# PCBCrew ™ IoT Router
+
+> Designed for [Easymeal ™][easymeal]
 
 SP32 based vending machine controller board with Ethernet, Wi-Fi, and 4G LTE connectivity
 
