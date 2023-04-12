@@ -1,4 +1,4 @@
-# PCBCrew ™ Easymeal IoT
+# PCBCrew ™ Easymeal ™ IoT
 
 SP32 based vending machine controller board with Ethernet, Wi-Fi, and 4G LTE connectivity
 
